@@ -85,11 +85,11 @@ B.	Current Status: Microservice is fully implemented. All features (adding favor
 
 C.	How Teammate Will Access Microservice:
 
-  	Users will get the code from the GitHub repository.
+  	1. Users will get the code from the GitHub repository.
    
-  	[GitHub link](https://github.com/Ecraindrop/CS-361-Microservice.git)
+	2. [GitHub repo](https://github.com/Ecraindrop/CS-361-Microservice.git)
    
-  	Users will run the microservice locally and import it into their Main Program.
+  	3. Users will run the microservice locally and import it into their Main Program.
    
 D.	What to Do If There Are Issues:
   	If users cannot access the microservice or runs into issues with function calls, they can contact me via Discord or Teams.
