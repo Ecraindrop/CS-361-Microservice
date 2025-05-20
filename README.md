@@ -80,16 +80,23 @@ print(get_favorites())
 ```
 ## Mitigation Plan:
 A.	Teammate for Microservice A: Adrianna Hoffman
+
 B.	Current Status: Microservice is fully implemented. All features (adding favorites, preventing duplicates, persisting favorites) are working as expected.
+
 C.	How Teammate Will Access Microservice:
+
   	Users will get the code from the GitHub repository.
   	[GitHub link](https://github.com/Ecraindrop/CS-361-Microservice.git)
   	Users will run the microservice locally and import it into their Main Program.
+   
 D.	What to Do If There Are Issues:
   	If users cannot access the microservice or runs into issues with function calls, they can contact me via Discord or Teams.
   	My availability for troubleshooting is between 3 PM - 9 PM (weekdays).
+   
 E.	Deadline for Reporting Issues: users should report any access issues by Friday, May 23th, 2025.
+
 F.	Additional Notes:
 The microservice relies on a JSON file for persistent storage. If there are file access issues, ensure the program has the right permissions.
-UML Diagram
+
+## UML Diagram
 
