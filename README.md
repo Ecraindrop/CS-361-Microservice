@@ -77,7 +77,7 @@ def get_favorites():
 # Example usage
 print(add_recipe_to_favorites("Pasta Carbonara"))
 print(get_favorites())
-```python
+```
 ## Mitigation Plan:
 A.	Teammate for Microservice A: Adrianna Hoffman
 B.	Current Status: Microservice is fully implemented. All features (adding favorites, preventing duplicates, persisting favorites) are working as expected.
