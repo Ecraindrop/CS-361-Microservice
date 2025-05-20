@@ -82,3 +82,4 @@ print(get_favorites())
 ## UML Diagram
 ![UML Diagram](UML.jpg)
 
+
